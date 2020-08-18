@@ -1,0 +1,27 @@
+  .s>li{
+            background-color: blue;
+            float: left;
+            width: 80px;
+            height: 30px;
+            padding-left: 40px;
+           font: blue;
+            margin-left: 80px; 
+           /* color:white;*/
+        }
+        .s:hover{
+            background-color: red;
+            cursor: pointer;
+            border-radius: 45px;
+             transition: ease all .5s;
+            
+            
+        }
+        .s:active{
+            transform: translate(10px,10px)
+            
+                
+        }
+ .p
+        {
+             padding-top:20px;
+        }

@@ -1,0 +1,112 @@
+.hide
+{
+	display: none;
+}
+.show
+{
+	display: block;
+}
+.heading
+{
+	font-size: 20px;
+	float: left;
+	margin-right: 10px;;
+}
+.errUid
+{
+	float: left; 
+}
+.not-ok{
+	color:red;
+}
+.ok{
+	color:green;
+}
+
+.signup-win
+{
+	margin: auto;
+	height: 400px;;
+	width: 350px;
+	border: 1px black solid;
+	margin-top: 5%;
+	padding: 10px;
+	box-shadow: 0px 0px 10px 10px gray;
+	border-radius: 5%;
+}
+#cross{
+	background-image: url(../pics/cross.jpg);
+	border:0spx red solid;
+	width: 30px;
+	height: 30px;
+	float: right;
+	background-size: contain;
+	position: absolute;
+	margin-left: 310px;
+	margin-top: 10px;
+	
+}
+input[type="text"],input[type="password"]
+{
+	width: 100%;
+	line-height: 30px;
+	font-size: 20px;
+	color:purple;
+	/*border:0px;*/
+	border:1px purple solid;
+	text-align: center;
+	outline: none;
+}
+input[type="text"]:focus{
+	box-shadow: 0px 0px 3px gray;
+			background-color: mediumpurple;
+
+
+}
+input[type="password"]:focus{
+	box-shadow: 0px 0px 3px gray;
+	background-color: mediumpurple;
+}
+.btn
+		{
+			width: 100px; background-color: purple; color: white;
+			 padding: 10px; margin-top: 10px;
+			cursor: pointer;
+			text-align: center;
+			margin: auto;
+			/*border-radius: 10px;*/
+			border-radius:20px 0px 20px 0px; /*clock wise*/
+			
+						
+
+		}
+		
+		.btn:hover{
+			background-color: gold;
+			color: black;
+			border-radius: 10px;
+			transition: ease all .5s;
+		}
+		.btn:active /*on click*/
+		{
+			transform: translate(5px,5px);
+			transition: ease all 0s;
+		}
+
+.eye
+{
+	border-top: 1px purple solid;
+	border-right: 1px purple solid;
+	border-bottom: 1px purple solid;
+	height: 33px;
+	margin-top: 1px;
+}
+
+
+
+
+
+
+
+
+

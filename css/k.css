@@ -1,0 +1,22 @@
+.s>li
+{
+    color: blue;
+    background-color: black;
+}
+
+.s2>li
+{
+    color: green;
+   
+    list-style: none;
+        
+}
+.s3>li
+{
+    color: red;
+}
+a
+{
+    text-decoration: none;
+    color: red
+}

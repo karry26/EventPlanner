@@ -1,0 +1,2 @@
+define(["require","exports","tslib"],function(e,t,r){"use strict";var n=this;Object.defineProperty(t,"__esModule",{value:!0}),t.postTTINCCTReminderModal=function(){return r.__awaiter(n,void 0,void 0,function(){var t;return r.__generator(this,function(n){switch(n.label){case 0:return[4,new Promise(function(t,r){e(["modules/clean/react/ncct/reminder_modal"],t,r)}).then(r.__importStar)];case 1:return t=n.sent().NcctReminderModalView,[4,t.load()];case 2:return[2,n.sent()]}})})}});
+//# sourceMappingURL=post_tti_ncct_modal.min.js-vflPEzIUn.map

@@ -1,0 +1,17 @@
+.overall
+{
+    width:600px;
+    margin: auto;
+}
+.imgg
+{
+    
+    background-image: url("../pics/Screenshot.png");
+    border-radius: 50%;
+    height: 150px;
+    
+    width: 33%;
+    background-color: black;
+    float: left;
+    
+}
